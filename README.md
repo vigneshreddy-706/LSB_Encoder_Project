@@ -58,3 +58,6 @@ Least Significant Bit (LSB) steganography is a technique used to hide secret inf
 ## 📄 License
 
 This project is created for learning and educational purposes.
+## Author
+
+Bommineni Vignesh Reddy
